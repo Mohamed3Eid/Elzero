@@ -9,6 +9,9 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 - Custom CSS styling.
 - Mobile-first responsive design.
 - Clean and organized file structure.
+- - **Hover Effects:** Smooth transitions are applied to buttons, links, and menu items to provide a more interactive feel.
+- **Keyframe Animations:** Custom keyframe animations are used to animate elements such as banners, icons, and sections on page load.
+- **Transitions:** CSS transitions are used for animating changes in element properties like `color`, `background`, `transform`, and `opacity`.
 
 ## 🛠 Technologies Used
 
@@ -16,6 +19,8 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 - CSS3.
 - Responsive Design:
   (Media Queries, Flex-box, Mobile-first approach).
+- **HTML5**: For structuring the content.
+- **CSS3**: For implementing animations using `@keyframes`, `transition`, and `transform`.
 
 ## 📂 How to Use
 
