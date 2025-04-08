@@ -237,6 +237,7 @@ ul {
   font-size: 26px;
   font-weight: bold;
   text-align: center;
+  font-style: italic;
   width: 100%;
 }
 
@@ -468,9 +469,14 @@ ul {
   color: #666;
 }
 
+#welcome .title h1 {
+  font-style: oblique;
+  color: #191919;
+}
+
 @media (min-width: 768px) {
   #welcome .title h1 {
-    font-size: 40px;
+    font-size: 35px;
   }
   #welcome .title p {
     font-size: 24px;
