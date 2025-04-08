@@ -26,6 +26,10 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 
 - Clone the repository: git clone git@github.com:Mohamed3Eid/Elzero.git
 
+## Live Demo
+
+👉 [Click here to view the project](https://mohamed3eid.github.io/Elzero/pages/index.html)
+
 ## 📬 Contact
 
 - Made with by **Mohamed Eid**
