@@ -24,9 +24,9 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 
 ## 📂 How to Use
 
-1. Clone the repository: git clone https://github.com/your-username/elzero.git
+- Clone the repository: git clone git@github.com:Mohamed3Eid/Elzero.git
 
 ## 📬 Contact
 
-Made with by **Mohamed Eid**
-📧 Email: mohamed.3eid@outlook.com
+- Made with by **Mohamed Eid**
+  📧 Email: mohamed.3eid@outlook.com
