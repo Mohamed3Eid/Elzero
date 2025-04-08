@@ -9,7 +9,7 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 - Custom CSS styling.
 - Mobile-first responsive design.
 - Clean and organized file structure.
-- - **Hover Effects:** Smooth transitions are applied to buttons, links, and menu items to provide a more interactive feel.
+- **Hover Effects:** Smooth transitions are applied to buttons, links, and menu items to provide a more interactive feel.
 - **Keyframe Animations:** Custom keyframe animations are used to animate elements such as banners, icons, and sections on page load.
 - **Transitions:** CSS transitions are used for animating changes in element properties like `color`, `background`, `transform`, and `opacity`.
 
