@@ -27,7 +27,7 @@ It showcases clean code structure, modern styling techniques, and a fully respon
 - Clone the repository:
 
 ```bash
-git clone git@github.com:Mohamed3Eid/Elzero.git
+git clone git@github.com:Mohamed3Eid/Haiba.git
 ```
 
 ## Live Demo
