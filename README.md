@@ -1,6 +1,6 @@
-# 💻 Elzero
+# 💻 Haiba
 
-**Elzero** is a simple and responsive web project built using **HTML5** and **CSS**.
+**Haiba** is a simple and responsive web project built using **HTML5** and **CSS**.
 It showcases clean code structure, modern styling techniques, and a fully responsive layout that adapts to different screen sizes.
 
 ## 🚀 Features
@@ -32,7 +32,7 @@ git clone git@github.com:Mohamed3Eid/Elzero.git
 
 ## Live Demo
 
-👉 [Click here to view the project](https://mohamed3eid.github.io/Elzero/pages/index.html)
+👉 [Click here to view the project](https://mohamed3eid.github.io/Haiba/pages/index.html)
 
 ## 📬 Contact
 
